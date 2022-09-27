@@ -14,7 +14,7 @@ function App() {
     <div >MineCraft
       Gameplay:5 types of blocks: Grass, Wood, Log, Glass and Dirt. You switch blocks with numbers 1-5 on your keyboard. You navigate the world with the mouse and WASD. You can click to add blocks and Alt+Click to remove blocks.
       Made with ReactJS, ThreeJS
-      By. Chhavi Srivastav
+     
     </div>
       <Canvas>
         <Sky sunPosition={[10, 1, 10]} />
